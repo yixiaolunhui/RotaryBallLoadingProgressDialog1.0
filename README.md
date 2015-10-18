@@ -39,7 +39,5 @@ Min Sdk Version:14
     @android.support.annotation.Keep *;
 }
 
-##License
 
----
 
