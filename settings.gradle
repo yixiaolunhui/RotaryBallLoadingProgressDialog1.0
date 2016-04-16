@@ -1,1 +1,1 @@
-include ':app', ':dalong'
+include ':app', ':dalong', ':rotaryballview'
