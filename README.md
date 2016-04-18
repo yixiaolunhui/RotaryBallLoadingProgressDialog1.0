@@ -17,7 +17,8 @@ Min Sdk Version:14
 
 ---
 
-# compile 'com.dalong:rotaryballview:1.0.0'
+   **compile 'com.dalong:rotaryballview:1.0.0'**
+
 
 ##Proguard
 
