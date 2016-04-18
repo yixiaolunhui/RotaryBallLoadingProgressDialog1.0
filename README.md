@@ -17,7 +17,7 @@ Min Sdk Version:14
 
 ---
 
-当成一个普通的UI控件来使用
+# compile 'com.dalong:rotaryballview:1.0.0'
 
 ##Proguard
 
