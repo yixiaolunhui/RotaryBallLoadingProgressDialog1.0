@@ -15,14 +15,15 @@ Min Sdk Version:14
 
 ##How to use
 
----
+    dependencies {
+             ...
+             compile 'com.dalong:rotaryballview:1.0.0'
+    }
 
-   **compile 'com.dalong:rotaryballview:1.0.0'**
 
 
 ##Proguard
 
----
 
 因为这里使用了@Keep注解来防止混淆，目前Gradle还没有这个混淆插件，所以要手动开启一下
 在app/proguard-rules.pro里面添加
